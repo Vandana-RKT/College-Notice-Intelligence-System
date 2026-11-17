@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.py[cod]
+instance/*.db
+uploads/*
+!uploads/.gitkeep
+
+check_db.py
